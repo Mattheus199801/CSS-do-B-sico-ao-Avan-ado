@@ -11,7 +11,14 @@ Este repositório contém exemplos e exercícios do curso **CSS do Básico ao Av
 
 - `css/` — Arquivos de estilo CSS
 - `index.html` — Página principal
+- Ajudar iniciantes e estudantes a dominarem a estrutura do HTML e desenvolverem páginas web com qualidade.
+
+---
+
+📘 Projeto criado para fins de aprendizado.
+
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License.
+
+
