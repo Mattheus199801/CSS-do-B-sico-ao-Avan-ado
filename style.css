@@ -1,0 +1,28 @@
+@charset "UFT-8";
+body {
+    background-color: #40a7a796;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #ff6600;
+}
+
+h2 {
+    color: #df1a1a;
+}
+
+h3 {
+    color: #2600ff;
+}
+
+#para1 {
+    text-align: center;
+    color: #0011ff;
+}
+
+.center {
+    text-align: center;
+    color: #6f00ffad;
+}
+
