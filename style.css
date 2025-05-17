@@ -24,5 +24,10 @@ h3 {
 .center {
     text-align: center;
     color: #6f00ffad;
+} /* Teste com comentário em CSS*/
+
+mark {
+    color: #df1a1a;
+    background-color: #f0ffff;
 }
 
