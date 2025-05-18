@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightblue;
+    border: 1em solid #000000a2;
+    margin: 2em;
+    padding: 2em;
+    background-image: url(img/teste.png);
+    color: #fcfcfc;
+}
+
+p{
+background-image: url(img/test.avif);
+}
+
+h1 {
+    background-color: #008000;
+}
+
+div{
+    background-color: #add8e6;
+}
+
+.nov1{
+    background-color: #ffff00;
+}
+
+mark {
+    color: #ff0000;
+    background-color: #f5deb3;
+}
+
+div {
+    background-color: #008000;
+}
+
+div.p1{
+    opacity: 0.1;
+}
+div.p2{
+    opacity: 0.3;
+}
+div.p3{
+    opacity: 0.6;
+}
