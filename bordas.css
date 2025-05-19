@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+
+mark{
+    color: #ff0000;
+    background-color: #1f1c1c;
+}
+
+body {
+    background-image: url(img/teste.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #faebd7;
+}
