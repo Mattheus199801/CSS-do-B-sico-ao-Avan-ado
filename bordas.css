@@ -23,3 +23,87 @@ body {
     background-attachment: fixed;
     color: #faebd7;
 }
+
+p.p1 {
+    border-style: solid;
+    border-width:0.5em ;
+}
+p.p2 {
+    border-style:solid ;
+    border-width:medium ;
+}
+p.p3 {
+    border-style: dotted;
+    border-width: 0.2em;
+}
+p.p4 {
+    border-style: dotted;
+    border-width: thick;
+}
+p.p5 {
+    border-style: double;
+    border-width: 1em;
+}
+p.p6 {
+    border-style:double ;
+    border-width: thick;
+}
+
+p.p-1{
+    border-style: solid;
+    border-width: 0.5em 2em;
+}
+p.p-2{
+    border-style: solid;
+    border-width: 2em 0.5;
+}
+p.p-3{
+    border-style:solid ;
+    border-width: 3em 1em 0.5em 4em;
+}
+
+p.p--1{
+    border-style: solid;
+    border-color: #ff0000;
+}
+p.p--2{
+    border-style:solid ;
+    border-color: #008000;
+}
+p.p--3{
+    border-style: solid;
+    border-color: #0000ff;
+}
+
+p.p7{
+    border-style: solid;
+    border-color: #008000 #0000ff #ffff00 #ff0000;
+}
+p.p--8{
+    border-top-style:dotted ;
+    border-right-style:solid ;
+    border-bottom-style:dotted ;
+    border-left-style:solid ;
+}
+p.p--9{
+    border-style: dotted solid;
+}
+
+p.p---1{
+    border-style: dotted solid double dashed;
+    text-align: center;
+}
+p.p---2{
+    border-style: dotted solid double;
+    text-align: center;
+
+}
+p.p---3{
+    border-style:dotted solid ;
+    text-align: center;
+}
+
+p.p---4{
+    border-style: dotted;
+    text-align: center;
+}
